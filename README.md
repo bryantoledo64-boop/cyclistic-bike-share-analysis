@@ -53,7 +53,7 @@ Los datos muestran que los ciclistas ocasionales (`casual`) concentran su activi
 
 1. **Notificaciones *in-app* basadas en el ahorro por duración:** Activar alertas automáticas en la aplicación móvil cuando un usuario `casual` complete un viaje superior a 30 minutos o acumule varios recorridos en un mes, mostrándole exactamente cuánto dinero habría ahorrado con una membresía anual.
 2. **Campañas de publicidad geolocalizada en fines de semana:** Concentrar la pauta digital (redes sociales y anuncios móviles) entre viernes por la tarde y domingo en torno a parques, zonas costeras y puntos turísticos, destacando la conveniencia y rentabilidad de suscribirse para quienes disfrutan paseos recreativos prolongados.
-3. **Marketing por correo electrónico con beneficios de transición:** Implementar flujos automatizados de *email marketing* dirigidos a usuarios ocasionales recurrentes, ofreciendo promociones de prueba (como un primer mes con descuento o créditos adicionales por tiempo extendido) antes de los meses de mayor demanda recreativa.
+3. **Marketing por correo electrónico con beneficios de transición:** Implementar flujos automatizados de *email marketing* dirigidos a usuarios ocasionales recurrentes, ofreciendo promociones de prueba (como un primer mes con descuento o créditos adicionales por tiempo extendido).
 4. **Contenido y retos comunitarios en redes sociales:** Utilizar Instagram y TikTok para promover rutas recreativas de fin de semana y desafíos de distancia o minutos acumulados exclusivos para miembros anuales, posicionando la suscripción no solo como un medio de transporte diario, sino como un pase de estilo de vida y recreación.
 
 ---
