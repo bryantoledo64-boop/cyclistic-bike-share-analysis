@@ -37,7 +37,7 @@ Este proyecto analiza los patrones de comportamiento de los usuarios del sistema
 | **Duración Mediana** | 23 min | 8 min |
 
 1. **Dominio de volumen por parte de los miembros:** Los usuarios `member` concentran el **91,38%** del total de viajes realizados, frente al **8,62%** de los usuarios `casual`.
-2. **Uso laboral vs. uso recreativo:** Los `member` mantienen un volumen alto y estable de lunes a viernes (alcanzando su pico los martes con `127.559` viajes), lo que evidencia desplazamientos diarios (*commuting*)[cite: 9]. En cambio, los `casual` duplican su demanda durante el fin de semana (`13.408` viajes el sábado y `18.540` el domingo)[cite: 9].
+2. **Uso laboral vs. uso recreativo:** Los `member` mantienen un volumen alto y estable de lunes a viernes (alcanzando su pico los martes con `127.559` viajes), lo que evidencia desplazamientos diarios (*commuting*). En cambio, los `casual` duplican su demanda durante el fin de semana (`13.408` viajes el sábado y `18.540` el domingo).
 3. **Mayor duración en viajes ocasionales:** La duración promedio de los usuarios `casual` (**38 minutos**, mediana de 23 min) triplica la de los `member` (**11 minutos**, mediana de 8 min), confirmando un uso recreativo o turístico más prolongado.
 
 ---
